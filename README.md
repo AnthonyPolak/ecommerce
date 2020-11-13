@@ -28,5 +28,5 @@
 ### Tecnologias
 
 - [Node.js]( https://nodejs.org/en/)
-- [JavaScript] (https://www.typescriptlang.org/))
+- [JavaScript](https://www.typescriptlang.org/)
 
