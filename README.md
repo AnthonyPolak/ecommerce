@@ -1,4 +1,4 @@
-#-------------------- Ecommerce --------------------
+<h1>-------------------- Ecommerce --------------------</h1>
 
 ### Sobre
 
@@ -9,18 +9,18 @@
 <!--ts-->
 * [Sobre](#Sobre)
 * [Tabela de Conteudo](#tabela-de-conteudo)
-* [Instalação](#instalacao)
+* [Instalacao](#instalacao)
 * [Pre Requisitos](#pre-requisitos)
 * [Tecnologias](#tecnologias)
 <!--te-->
 
-### Instalação
+### Instalacao
 
 - Fazer o clone da pasta
 - No terminal entrar na pasta do projeto (exmeplo: C:/User/Meupc/documents/projetos/ecommerce
 - Na pasta raiz do projeto rodar o comando npm install
 
-### Pré-requisitos
+### Pre Requisitos
 
 - Nodejs instalado
 - Xampp ou outro serviço Mysql
