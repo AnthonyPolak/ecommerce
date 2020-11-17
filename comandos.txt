@@ -1,0 +1,8 @@
+comando no vscode => ctrl + shift + '
+
+primeiro passo:
+primeiro instalar as dependencias => npm install
+depois: 
+comando no prompt do vscode => npm run dev
+
+vai aparecer Servidor rodando na porta 8081!
